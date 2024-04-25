@@ -44,6 +44,7 @@
 | Customer Premise Equipment Management | Charter Communications | 2024/01/19| [Link](https://github.com/camaraproject/WorkingGroups/pull/379/files) | CableLabs, Charter Communications, Liberty Global, Vodafone, VodafoneZiggo | Sent to TSC for approval (2024/04/02) | Not yet treated  | --- | %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<!---Capability and Runtime Restrictions-->%%%%%%%%%%%%%%%%%%%%%
 | Capability and Runtime Restrictions | T-Mobile US | 2024/02/01 | [Link](https://github.com/camaraproject/WorkingGroups/pull/384/files) | T-Mobile US | Sent to TSC for approval (2024/04/02) | Not yet treated  | --- |%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%<!---Carrier Wholesale Pricing-->%%%%%%%%%%%%%%%%%%%%%
 | Carrier Wholesale Pricing | TelecomsXChange | 2024/03/04 | [Link](https://github.com/camaraproject/WorkingGroups/pull/384/files) | TelecomsXChange | Not yet discussed | Not yet treated  | --- | 
+| Tenure | Vodafone | 2024/04/24 | [Link](https://github.com/ag-vodafone/WorkingGroups/blob/d0d48df048a3e238c4d87cb5b14e6ea49b2a2d68/APIBacklog/documentation/API-proposal-template.md) | DT, TEF | Under discussion | Not yet treated  | --- |
 
  ## Attributes
  - `API [family] name`: it is the name of the API [family] proposal
